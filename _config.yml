@@ -28,7 +28,7 @@ twitter: dragonlord2005 # replace by your username
 facebook: ghost # replace by your username
 
 # Disqus
-disqus: False
+disqus: True
 disqus_shortname: englishexams # replace with your disqus username
 
 # Google Analytics
