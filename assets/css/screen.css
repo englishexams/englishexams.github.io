@@ -107,8 +107,8 @@ body {
 
 .site-header {
     position: relative;
-    padding-top: -12px;
-    padding-bottom: -12px;
+    padding-top: 0;
+    padding-bottom: 0;
     color: #fff;
     background: color(var(--darkgrey) l(-5%)) no-repeat center center;
     background-size: cover;
