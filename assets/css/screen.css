@@ -107,6 +107,7 @@ body {
 
 .site-header {
     position: relative;
+    margin-top: -70px;
     padding-top: 12px;
     padding-bottom: 16x;
     color: #fff;
@@ -150,8 +151,8 @@ body {
     justify-content: center;
     align-items: center;
     padding: 10vw 4vw;
-    min-height: 100px;
-    max-height: 350px;
+    min-height: 200px;
+    max-height: 450px;
     text-align: center;
 }
 
