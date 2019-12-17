@@ -106,7 +106,7 @@
 figure.highlight,
 td.code {
     border: none;
-    min-width: 800%;
+    min-width: 80%;
     max-width: 100%
     max-height: 500px;
   overflow-y: auto;
