@@ -2047,8 +2047,9 @@ body {
 }
 .two {
     margin-left: 15%;
-    height: 700px;
-    background: black;
+    height: 765px;
+    background: white;
+    padding: 12px
 }
 @media (max-width:900px) {
     .floating-header {
