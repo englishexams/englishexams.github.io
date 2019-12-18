@@ -2034,21 +2034,21 @@ body {
     background-color: #3eb0ef
 }
 .container {
-    width: 80%;
-    height: 200px;
+    width: 1200px;
+    height: 700px;
     background: aqua;
     margin: auto;
     padding: 10px;
 }
 .one {
-    width: 15%;
+    width: 75%;
     height: 200px;
     background: red;
     float: left;
 }
 .two {
     margin-left: 15%;
-    height: 200px;
+    height: 700px;
     background: black;
 }
 @media (max-width:900px) {
