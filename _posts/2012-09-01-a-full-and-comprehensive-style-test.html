@@ -52,14 +52,38 @@ import Foundation
 }
 </code></pre>
 </div></div>
-    <div class="two"><form action="#">
+    
+    <ul id="profileTabs" class="nav nav-tabs">
+    <li class="active"><a href="#profile" data-toggle="tab">Profile</a></li>
+    <li><a href="#about" data-toggle="tab">About</a></li>
+    <li><a href="#match" data-toggle="tab">Match</a></li>
+</ul>
+  <div class="tab-content">
+<div role="tabpanel" class="tab-pane active" id="profile">
+    <h2>Profile</h2>
+<p> <div class="two"><form action="#">
     <input type="radio" id="test1" name="radio-group" checked>
     <label for="test1">Apple</label>
     <input type="radio" id="test2" name="radio-group">
     <label for="test2">Peach</label>
     <input type="radio" id="test3" name="radio-group">
     <label for="test3">Orange</label>
-</form></div>
+</form></div></p>
+</div>
+
+<div role="tabpanel" class="tab-pane" id="about">
+    <h2>About</h2>
+    <p>Lorem ipsum ...</p></div>
+
+<div role="tabpanel" class="tab-pane" id="match">
+    <h2>Match</h2>
+    <p>Vel vehicula ....</p>
+</div>
+</div>
+    
+    
+    
+
 </section>
 
 
