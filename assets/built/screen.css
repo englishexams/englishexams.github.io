@@ -1058,7 +1058,9 @@ body {
   right: 0;
   bottom: 0;
   padding: 20px;
-  border: 1px solid #ccc; 
+  border: 1px solid #ccc;
+  max-width: 600px;
+  max-height: 615px;
 }
 [type=radio]:checked ~ label {
   background: white;
@@ -1584,8 +1586,12 @@ footer {
     }
 }
 .scroll-box {
-    height: 800px; /* maximum height of the box, feel free to change this! */
+    height: 650px; /* maximum height of the box, feel free to change this! */
     overflow-y: scroll;
+    max-width: 500px;
+    float: right;
+    padding: 10px;
+    background-color: #f7f6f6;
 }
 .post-full-content table {
     display: inline-block;
