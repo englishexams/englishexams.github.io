@@ -1032,9 +1032,9 @@ body {
 }
 .tabs {
   position: relative;   
-  min-height: 200px; /* This part sucks */
+  min-height: 740px; /* This part sucks */
   clear: both;
-  margin: 25px 0;
+  margin: 8px 0;
 }
 .tab {
   float: left;
