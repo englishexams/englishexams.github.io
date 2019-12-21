@@ -1057,10 +1057,10 @@ body {
   background: white;
   right: 0;
   bottom: 0;
-  padding: 20px;
+  padding: 15px;
   border: 1px solid #ccc;
-  max-width: 600px;
-  max-height: 615px;
+  max-width: 550px;
+  max-height: 614px;
 }
 [type=radio]:checked ~ label {
   background: white;
@@ -2157,7 +2157,6 @@ footer {
     width: 1500px;
     height: 700px;
     background: white;
-    padding: 10px;
 }
 .one {
     width: 47%;
